@@ -1,0 +1,2 @@
+
+Namespace(sh_degree=2, source_path='/home/wangyy/tangyuan', model_path='/home/wangyy/tangyuan/single_view', images='images', resolution=1, white_background=False, data_device='cuda', no_load_depth=False, eval=False, lambda_local_pearson=0.35, lambda_pearson=0.05, box_p=64, p_corr=0.5, prune_exp=7.5, prune_perc=0.98, densify_lag=1000000, power_thresh=-4.0, densify_period=5000, step_ratio=0.99, lambda_diffusion=0.0, SDS_freq=0.1, lambda_reg=0.1, warp_reg_start_itr=20000, depths="")
